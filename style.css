@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+/*Cabecera*/
+
+header{
+    border: 1px solid grey;
+
+    padding: 5%;
+    margin: 2%;
+}
+/* ------------------- */
+/* Nav */
+
+
+/* ------------------- */
+/* Article */
+
+div{
+    float: left;
+    width: 30%;
+}
+
+table{
+    padding: 50px;
+}
+
+tr,td{
+    padding: 10px;
+
+    text-align: center;
+    font-family:Candara;
+    font-size: x-large;
+}
+
+img{
+    width: 60%;
+}
+
+/* ------------------ */
+/* Pie */
+
+footer{
+    border: 1px solid grey;
+
+    padding: 5%;
+    margin: 2%;
+
+    color: white;
+    background-color: black;
+}
+
+/* ---------------- */
